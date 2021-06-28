@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Chevron pattern](https://previews.123rf.com/images/sunspire/sunspire1703/sunspire170300097/73057466-abstract-geometric-lines-graphic-design-chevron-pattern.jpg)
